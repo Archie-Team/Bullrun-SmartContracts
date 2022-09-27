@@ -1,0 +1,9 @@
+{
+    "BUSD_Token_Mainnet" : "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "USDC_Token_Mainnet" : "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "Owner_Mainnet" : "0xC03d0aF74cf3d08D92A236F0691CbAb0b8C8830d",
+    "Transfers_BUSD_Mainnet" : "0x2FE532BD6Ee8c48030aCcCd19e62AE254F52523E",
+    "Transfers_USDC_Mainnet" : "0x4B3cd9B56cf7ccda58aA45A2505E2d844f9605c6",
+    "BinanceRpc_Mainnet" : "https://bsc-dataseed1.binance.org",
+    "EthererumRpc_Mainnet" : "https://mainnet.infura.io/v3/4c4d7058f1b94e91bdfb6c88ad41eb68"
+}

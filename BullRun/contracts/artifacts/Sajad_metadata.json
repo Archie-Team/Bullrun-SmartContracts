@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getSajad",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Sajad.sol": "Sajad"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Sajad.sol": {
+			"keccak256": "0x3f013ff084c58137f170a0574b9b3a176aa75cb42f5b38a94125a2162386790a",
+			"license": "GPL-3.",
+			"urls": [
+				"bzz-raw://122e8fd37f2a38d63bf5a02b6bc3f3cd63fe8d26b337aaf5cb0540fa7e373473",
+				"dweb:/ipfs/QmcxZMqeFz8RH3ET4xu3uVjmFKNu5NLDThUroYNvjNYAzk"
+			]
+		}
+	},
+	"version": 1
+}
